@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Truong Tri Hung and I'm from Viet Nam
 - 👀 I’m interested in learning something new from programming ( and maybe some technical skill too)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
